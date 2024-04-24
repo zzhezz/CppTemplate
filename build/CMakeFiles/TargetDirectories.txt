@@ -1,0 +1,3 @@
+C:/Users/zzhez/Desktop/cmake/build/CMakeFiles/Example.dir
+C:/Users/zzhez/Desktop/cmake/build/CMakeFiles/edit_cache.dir
+C:/Users/zzhez/Desktop/cmake/build/CMakeFiles/rebuild_cache.dir
